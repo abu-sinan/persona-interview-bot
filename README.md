@@ -49,13 +49,17 @@ pip install requests google-api-python-client google-auth google-auth-oauthlib
 
 - Replace in `main.py`:
 
-`GEMINI_API_KEY = 'YOUR_GEMINI_API_KEY'`
+```
+GEMINI_API_KEY = 'YOUR_GEMINI_API_KEY'
+```
 
 ### 2. Google Sheets Setup
 
 - Create a Google Sheet and get its ID from the URL:
 
-`https://docs.google.com/spreadsheets/d/<SPREADSHEET_ID>/edit`
+```
+https://docs.google.com/spreadsheets/d/<SPREADSHEET_ID>/edit
+```
 
 - Replace in `main.py`:
 
@@ -156,4 +160,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you need help, please open an issue or contact me.
 
 
-Happy automating! 🚀
+*Happy automating! 🚀*
