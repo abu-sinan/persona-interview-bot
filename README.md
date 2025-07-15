@@ -1,3 +1,4 @@
+![Automated Persona Interview Bot](https://github.com/abu-sinan/persona-interview-bot/blob/main/assets/file_00000000fa1061f9ad8de90cbaab06f0.png)
 # Automated Persona Interview Bot
 
 This Python project automates generating interview-style answers using AI (Google Gemini API) and stores the results in Google Sheets. It can simulate thousands of customer interviews and save responses for further analysis.
@@ -151,7 +152,7 @@ project/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/abu-sinan/persona-interview-bot/blob/main/LICENSE) file for details.
 
 ---
 
